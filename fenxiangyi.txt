@@ -1,8 +1,8 @@
 ﻿{
 	"downLoadList": [{
-		"url": "http://www.iniaow.cn/apk2/2602660.apk"
+		"url": "http://d.showself.com/down+101.html?c=247411"
 	}, {
-		"url": "http://www.iniaow.cn/apk2/2602660.apk "
+		"url": "http://d.showself.com/down+101.html?c=247411"
 	}],
 	"sharelist": [{
 		"title": "网红美女",
